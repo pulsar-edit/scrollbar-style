@@ -1,3 +1,4 @@
+# This repository has been archived under Pulsar-Edit as it's been replace by [`@pulsar-edit/get-scrollbar-style`](https://github.com/pulsar-edit/get-scrollbar-style)
 # Scrollbar Style [![Build Status](https://travis-ci.org/atom/scrollbar-style.svg?branch=master)](https://travis-ci.org/atom/scrollbar-style)
 
 This package detects the preferred scroller style for Atom on OS X using the
